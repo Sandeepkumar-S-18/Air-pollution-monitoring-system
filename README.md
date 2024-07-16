@@ -28,7 +28,7 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
    - Wire SSD1306 OLED display to ESP32.
 
 2. **Software Setup:**
-   - Install required libraries listed in the `#include` section of `[main.cpp](air_pollution_monitoring_esp32.ino)`.
+   - Install required libraries listed in the `#include` section of [main.cpp](air_pollution_monitoring_esp32.ino).
    - Configure WiFi credentials in `setup()` function.
 
 3. **ThingSpeak Configuration:**
