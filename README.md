@@ -52,7 +52,7 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
   <img src="Images/ThingSpeak op3.png"/> 
 </p>
 
-## Guide:
+## Under the Guidence:
 - [Prof.PRAKASHA G](https://www.linkedin.com/in/prakasha-g-76a609193)
 
 ## Authors:
