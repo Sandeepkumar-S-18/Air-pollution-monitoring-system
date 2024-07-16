@@ -39,10 +39,9 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 - Power on the device and monitor OLED display for real-time data.
 - Data is automatically uploaded to ThingSpeak every 5 seconds.
 
-## Results:
+## Result:
 <p align="center">
-  <img src="" width="400" height="400" /> 
-  <img src="https://user-images.githubusercontent.com/71394525/136599503-6ad07c23-1344-41fd-b735-1ea4a546efba.png" width="400" height="400" />
+  <img src="Images/ThingSpeak_Result.png"/> 
 </p>
 
 
