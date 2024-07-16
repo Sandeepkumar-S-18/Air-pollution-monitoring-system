@@ -40,7 +40,7 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 - Data is automatically uploaded to ThingSpeak every 5 seconds.
 
 ## Result:
-<p align="center">
+<p>
   <img src="Images/ThingSpeak_Result.png"/> 
 </p>
 
