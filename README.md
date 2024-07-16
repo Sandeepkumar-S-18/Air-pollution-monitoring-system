@@ -1,4 +1,4 @@
-# Air Pollution Monitoring System
+<h1>Air Pollution Monitoring System</h1>
 
 This project monitors temperature, humidity, and gas levels using an ESP32 microcontroller with DHT11 and MQ2 sensors. Data is displayed on an OLED screen and uploaded to ThingSpeak for remote monitoring.
 
@@ -6,6 +6,11 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 - Real-time temperature and humidity monitoring.
 - OLED display for local data visualization.
 - Integration with ThingSpeak for cloud data logging.
+
+## Design:-
+<p>
+  <img src="Images/design.png"/> 
+</p>
 
 ## Components Used
 - ESP32 microcontroller
@@ -42,7 +47,9 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 ## Result:
 <p>The goal of the project at hand is to create an ESP32-based air pollution monitoring system for particular locations, such cafes, hotels, or industries. The system will use sensors to measure pollutants in real-time, such as nitrogen dioxide (NO2), carbon monoxide (CO), and particulate matter (p.m.2.5, PM10). The cloud-based IoT platform ThingSpeak will receive the data transmission for storage and analysis. The initiative does not include any control mechanisms; it only monitors and analyzes air quality. The system's objective is to enhance awareness and enable well-informed decision-making for indoor air quality management in specific public and private areas by offering extensive pollutant statistics.</p>
 <p>
-  <img src="Images/ThingSpeak_Result.png"/> 
+  <img src="Images/ThingSpeak op1.png"/> 
+  <img src="Images/ThingSpeak op2.png"/> 
+  <img src="Images/ThingSpeak op3.png"/> 
 </p>
 
 
