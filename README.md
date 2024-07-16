@@ -33,7 +33,7 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 
 3. **ThingSpeak Configuration:**
    - Create a ThingSpeak account and channel.
-   - Replace 'apiKey' and 'myChannelNumber' in [main.cpp](air_pollution_monitoring_esp32.ino) with your specific values.
+   - Replace `apiKey` and `myChannelNumber` in [main.cpp](air_pollution_monitoring_esp32.ino) with your specific values.
 
 ## Usage
 - Power on the device and monitor OLED display for real-time data.
