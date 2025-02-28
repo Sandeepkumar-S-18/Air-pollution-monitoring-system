@@ -9,7 +9,7 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 
 ## Design:-
 <p>
-  <img src="https://github.com/sandeepku-s/Air-pollution-monitoring-system/blob/main/Images/design.png"/> 
+  <img src="Images/design.png"/> 
 </p>
 
 ## Components Used
@@ -47,16 +47,16 @@ This project monitors temperature, humidity, and gas levels using an ESP32 micro
 ## Result:
 <p>The goal of the project at hand is to create an ESP32-based air pollution monitoring system for particular locations, such cafes, hotels, or industries. The system will use sensors to measure pollutants in real-time, such as nitrogen dioxide (NO2), carbon monoxide (CO), and particulate matter (p.m.2.5, PM10). The cloud-based IoT platform ThingSpeak will receive the data transmission for storage and analysis. The initiative does not include any control mechanisms; it only monitors and analyzes air quality. The system's objective is to enhance awareness and enable well-informed decision-making for indoor air quality management in specific public and private areas by offering extensive pollutant statistics.</p>
 <p>
-  <img src="https://github.com/sandeepku-s/Air-pollution-monitoring-system/blob/main/Images/ThingSpeak%20op1.png"/> 
-  <img src="https://github.com/sandeepku-s/Air-pollution-monitoring-system/blob/main/Images/ThingSpeak%20op2.png"/> 
-  <img src="https://github.com/sandeepku-s/Air-pollution-monitoring-system/blob/main/Images/ThingSpeak%20op3.png"/> 
+  <img src="Images/ThingSpeak_output1.png"/> 
+  <img src="Images/ThingSpeak_output2.png"/> 
+  <img src="Images/ThingSpeak_output3.png"/> 
 </p>
 
 ## Under the Guidence:
 - [Prof.PRAKASHA G](https://www.linkedin.com/in/prakasha-g-76a609193)
 
 ## Team members:
-- [SANDEEPKUMAR S](https://www.linkedin.com/in/sandeepkumar-s-233721241/)
+- [SANDEEPKUMAR S](https://www.linkedin.com/in/sandeepku-s/)
 - [MANOHAR P HIREMATH](https://www.youtube.com/@ManoharHiremath)
 - [DARSHAN D](https://www.youtube.com/@Darshan_d_Naik)
-- [RAGHAVENDRA M](https://www.instagram.com/_raghu_m_.46?igsh=MXNjNGcydG1vaWhiOQ==)
+- [RAGHAVENDRA M](https://www.linkedin.com/in/raghu-raghu-b05175305/)
