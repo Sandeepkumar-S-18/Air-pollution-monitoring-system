@@ -33,12 +33,12 @@ This project monitors temperature, humidity, and gas levels using an ESP8266 mic
    - Wire SSD1306 OLED display to ESP8266.
 
 2. **Software Setup:**
-   - Install required libraries listed in the `#include` section of [main.cpp](air_pollution_monitoring_system.ino).
+   - Install required libraries listed in the `#include` section of [main.cpp](Code/air_pollution_monitoring_system.ino).
    - Configure WiFi credentials in `setup()` function.
 
 3. **ThingSpeak Configuration:**
    - Create a ThingSpeak account and channel.
-   - Replace `apiKey` and `myChannelNumber` in [main.cpp](air_pollution_monitoring_system.ino) with your specific values.
+   - Replace `apiKey` and `myChannelNumber` in [main.cpp](Code/air_pollution_monitoring_system.ino) with your specific values.
 
 ## Usage
 - Power on the device and monitor OLED display for real-time data.
